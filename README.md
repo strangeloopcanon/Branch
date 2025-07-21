@@ -85,10 +85,6 @@ python -m branch import exported.html \
 
 ---
 
-## FAQ / future work
+## Notes
 
-* Continuous 60-minute sync daemon – planned.
-* Repo-wide blob deduplication – planned.
-* GUI picker (Electron/React) – planned.
-
-Everything else (Sheets, comments, PR UI) is explicitly out of scope for v0.1.
+*   There's an open question on whether converting everything to Markdown might be a good idea.
